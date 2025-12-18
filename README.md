@@ -49,6 +49,13 @@ Youssef Atertour - EMSI 2025
 
 ## Proof Screenshots
 
-### Angular Frontend UI
-![Angular Application Home Page](screenshots/angular_ui.png)
+### Customers List
+![Angular Customers List](screenshots/customers_list.png)
+
+### Products List
+![Angular Products List](screenshots/products_list.png)
+
+### Bills View (Customer Orders)
+![Angular Bills View](screenshots/bills_view.png)
+
 
