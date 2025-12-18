@@ -50,12 +50,13 @@ Youssef Atertour - EMSI 2025
 ## Proof Screenshots
 
 ### Customers List
-![Angular Customers List](screenshots/customers_list.png)
+![Customers View](screenshots/ui-customers.png)
 
 ### Products List
-![Angular Products List](screenshots/products_list.png)
+![Products View](screenshots/ui-products.png)
 
 ### Bills View (Customer Orders)
-![Angular Bills View](screenshots/bills_view.png)
+![Bills View](screenshots/ui-bills.png)
+
 
 
