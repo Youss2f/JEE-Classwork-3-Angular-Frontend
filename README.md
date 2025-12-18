@@ -44,3 +44,11 @@ The frontend connects to microservices via the Gateway at `http://localhost:8888
 
 ## Author
 Youssef Atertour - EMSI 2025
+
+---
+
+## Proof Screenshots
+
+### Angular Frontend UI
+![Angular Application Home Page](screenshots/angular_ui.png)
+
